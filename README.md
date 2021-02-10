@@ -1,4 +1,4 @@
-# Músico, guitarrista e dev. 🎸 💻
+# 💻 Desenvolvedor Web. 💻
 
 Formado no bacharelado em violão pela UFPB e em formação no curso de **Análise e Desenvolvimento de Sistemas**.
 
