@@ -1,4 +1,4 @@
-![](https://github.com/leoportogtr86/javascript/blob/master/carbon.png)
+![](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)
 
 # 💻 Desenvolvedor Web. 💻
 
