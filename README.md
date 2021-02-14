@@ -20,6 +20,7 @@ Meu foco atualmente é trabalhar e me desenvolver em Javascript (fullstack), apa
     <React/>
     <ReactNative/>
     <NextJS/>
+    <ElectronJS/>
     
 3.🎨 Estilização
 
