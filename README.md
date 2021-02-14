@@ -66,6 +66,3 @@ Meu foco atualmente é trabalhar e me desenvolver em Javascript (fullstack), apa
 [Qual é A Música?](https://leoportogtr86.github.io/qual-musica) - [Repositório](https://github.com/leoportogtr86/qual-musica)
 
 
-
-
-    
