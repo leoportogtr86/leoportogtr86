@@ -2,6 +2,49 @@
 
 # 💻 Desenvolvedor Web. 💻
 
-## Em formação no curso de **Análise e Desenvolvimento de Sistemas**.
+Olá, sou Leo Porto, apaixonado por tecnologia 🖥️ e guitarra 🎸!
 
-### Atualmente estou estudando: **node js**, **react**, **react native**, **mongoDb**, **graphQl**, **express** e as tecnologias web dessa stack. 
+## 🎯
+
+Meu foco atualmente é trabalhar e me desenvolver em Javascript (fullstack), apaixonado por criação de interfaces com usuário (React, React Native, CSS, Styled Components, SASS Bootstrap...). Também tenho estudado e desenvolvido minhas habilidades do lado de backend (node js), banco de dados e demais tecnologias presente nessa stack.
+
+
+### Tecnologias do Frontend
+
+1.👨‍💻 Linguagem
+
+    <Javascript/>
+    
+2.🛠️ Frameworks JS
+
+    <React/>
+    <ReactNative/>
+    <NextJS/>
+    
+3.🎨 Estilização
+
+    <Css/>
+    <StyledComponents/>
+    <Bootstrap/>
+    <Sass/>
+    
+    
+
+### Tecnologias do Backend
+
+1.👨‍💻 Linguagem
+
+    <Javascript/>
+    <NodeJS/>
+    
+2.🛠️ Frameworks JS
+
+    <Express/>
+    
+3.💾 Banco de Dados
+
+    <MongoDB/>
+    <MySQL/>
+    
+    
+    
