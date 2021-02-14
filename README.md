@@ -49,9 +49,9 @@ Meu foco atualmente é trabalhar e me desenvolver em Javascript (fullstack), apa
     
     
     
-### Principais Projetos
+## Principais Projetos
 
-## Projetos de Música
+### Projetos de Música
 
 [Quiz de Percepção Musical](https://leoportogtr86.github.io/quiz-percepcao/) - [Repositório](https://github.com/leoportogtr86/quiz-percepcao)
 
