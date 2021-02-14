@@ -49,3 +49,23 @@ Meu foco atualmente é trabalhar e me desenvolver em Javascript (fullstack), apa
     
     
     
+### Principais Projetos
+
+## Projetos de Música
+
+[Quiz de Percepção Musical](https://leoportogtr86.github.io/quiz-percepcao/) - [Repositório](https://github.com/leoportogtr86/quiz-percepcao)
+
+[Buscador de Cifras](https://kdacifra.netlify.app/) - [Repositório](https://github.com/leoportogtr86/kd-a-cifra)
+
+[Dicionário de Escalas](https://leoportogtr86.github.io/dicionario-de-escalas/) - [Repositório](https://github.com/leoportogtr86/dicionario-de-escalas)
+
+[Efeitos de Guitarra](https://leoportogtr86.github.io/efeitos) - [Repositório](https://github.com/leoportogtr86/efeitos)
+
+[Quiz de Intrumentos Musicais](https://leoportogtr86.github.io/instrumentos/) - [Repositório](https://github.com/leoportogtr86/instrumentos)
+
+[Qual é A Música?](https://leoportogtr86.github.io/qual-musica) - [Repositório](https://github.com/leoportogtr86/qual-musica)
+
+
+
+
+    
