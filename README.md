@@ -67,20 +67,3 @@ Meu foco atualmente é trabalhar e me desenvolver em Javascript (fullstack), apa
 
 [Qual é A Música?](https://leoportogtr86.github.io/qual-musica) - [Repositório](https://github.com/leoportogtr86/qual-musica)
 
-
-# Cursos Livres e Bootcamps
-
-![](https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png)
-![](https://hermes.digitalinnovation.one/certificates/cover/C2231E72.jpg)
-
-![](https://hermes.digitalinnovation.one/courses/badge/4e771693-693c-4e3e-833c-f963ce9e65b8.png)
-![](https://hermes.digitalinnovation.one/certificates/cover/537FE98D.jpg)
-
-![](https://hermes.digitalinnovation.one/courses/badge/28bfbf19-a31a-41a2-b78f-e70c0e18f37a.png)
-![](https://hermes.digitalinnovation.one/certificates/cover/145E7B4A.jpg)
-
-![](https://hermes.digitalinnovation.one/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png)
-![](https://hermes.digitalinnovation.one/certificates/cover/9D0AC994.jpg)
-
-![](https://hermes.digitalinnovation.one/courses/badge/055cc14e-8c93-467a-9dbd-d2c49e53ad85.png)
-![](https://hermes.digitalinnovation.one/certificates/cover/5492E32A.jpg)
