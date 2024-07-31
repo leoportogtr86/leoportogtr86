@@ -12,9 +12,9 @@
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
-  <img align="center" alt="Leo-CSS" height="40" width="40" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
@@ -24,6 +24,7 @@
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg"> 
+  <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> 
   
 </div>
   
