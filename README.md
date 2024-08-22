@@ -25,6 +25,8 @@
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg"> 
   <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> 
+  <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="Leo-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   
 </div>
   
